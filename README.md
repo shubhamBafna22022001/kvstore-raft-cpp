@@ -1,9 +1,4 @@
 
-![logo](doc/images/logo/transparent-black-v2.png)
-
-<!-- PROJECT SHIELDS -->
-![AUR license](https://img.shields.io/aur/license/aurora.svg)
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -120,29 +115,7 @@ cd aurora\working\
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-It is strongly recommended to read the [developer guide](doc/developer_guide.md) for details.
-
-<!-- LICENSE -->
-## License
-Distributed under the **GPLv3** License. See the [license file](LICENSE) for more information.
-
-<!-- CONTACT -->
-## Contact
-Arthur - pplorins@gmail.com
 
 
-## Donation
-This project consumed a lot time away from the author, and if you think it helps, don't hesitate to show your generosity :moneybag: :moneybag: :moneybag:
-
-* paypal: [paypal.me link](https://www.paypal.me/arthurCoo)
-* wechat:
-
-   ![wechat-pay](doc/images/pay_wechat.png)
-   
-* alipay:
-
-  ![alipay](doc/images/pay_alipay.png)
 
 
