@@ -1,4 +1,4 @@
-# KVStore-Raft-CPP
+# Distributed KVStore-Raft-CPP
 
 A distributed, fault-tolerant **Key-Value Store** built in modern C++ using the **Raft consensus algorithm**, **gRPC** for communication, and a **LevelDB-inspired storage backend**.
 
